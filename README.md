@@ -1,5 +1,7 @@
 # Frontend Mentor - FAQ accordion
 
+### Note: not mobile responsive yet
+
 ![Design preview for the FAQ accordion coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
