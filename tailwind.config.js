@@ -9,6 +9,7 @@ export default {
       'my-white':	'#ffffff',
       'my-light-pink':	'#f9f0ff',
       'my-grayish-purple':	'#8c6991',
+      'my-dark-purple':	'#2f1533',
     },
     extend: {},
   },

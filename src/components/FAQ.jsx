@@ -13,6 +13,8 @@ const FAQ = () => {
 
         <p className="font-bold text-5xl">FAQs</p>
         </div> 
+
+        <LineSeparator />
         
         
         <div className="bg-white rounded-lg grid gap-4">
