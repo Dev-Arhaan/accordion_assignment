@@ -1,5 +1,7 @@
 # Frontend Mentor - FAQ accordion
 
+![Screenshot (103)](https://github.com/Dev-Arhaan/accordion_assignment/assets/113898488/211c6bb3-6261-4f4f-8479-7d6d1e37e1e7)
+
 ### Note: not mobile responsive yet
 
 ![Design preview for the FAQ accordion coding challenge](./design/desktop-preview.jpg)
